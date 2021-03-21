@@ -1,7 +1,8 @@
 def my_hash(your_hash)
   your_hash = {"guitar1" => "Stratocaster", 
   "guitar2" => "Jazzmaster", "mandolin" => "Epiphone"
-   puts your_hash
+  end
+  your_hash
 end
 
 
