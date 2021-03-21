@@ -1,6 +1,6 @@
 def my_hash(your_hash)
   your_hash = {"guitar1" => "Stratocaster", 
-  "guitar2" => "Jazzmaster", "mandolin" => "Epiphone"
+  "guitar2" => "Jazzmaster", "mandolin" => "Epiphone"}
   end
   your_hash
 end
