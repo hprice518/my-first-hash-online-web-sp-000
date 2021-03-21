@@ -1,7 +1,7 @@
 def my_hash
-  puts your_hash = {"guitar1" => "Stratocaster", 
+  your_hash = {"guitar1" => "Stratocaster", 
   "guitar2" => "Jazzmaster", "mandolin" => "Epiphone"
-   your_hash
+   puts your_hash
 end
 
 
